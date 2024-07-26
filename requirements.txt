@@ -1,0 +1,8 @@
+numpy
+discord-py
+git+https://github.com/mathsman5133/coc.py
+mysql-connector
+asyncio
+pycord
+git+https://github.com/not-Karot/discord-paging.git
+nest_asyncio

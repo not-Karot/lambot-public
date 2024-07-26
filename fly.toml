@@ -1,0 +1,8 @@
+# fly.toml file generated for lambot on 2022-11-26T17:20:30+01:00
+
+app = "lambot"
+kill_signal = "SIGINT"
+kill_timeout = 5
+processes = []
+
+[env]
